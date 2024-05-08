@@ -28,7 +28,7 @@
 
 <h4>Otros</h4>
 <ul>
-    <li>.NET Framework</li>
+    <li><img src="https://img.shields.io/badge/-.NET%20Framework-333333?style=flat&logo=.net&color=512BD4" alt=".NET Framework"></li>
     <li>Entity Framework</li>
     <li>ASP.NET</li>
     <li>Xamarin</li>
@@ -47,6 +47,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/ermanmeneses/"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ermanmeneses@outlook.es"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ermanmeneses/"><img src="https://img.shields.io/badge/-Erman%20Meneses-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ermanmeneses@outlook.es"><img src="https://img.shields.io/badge/-ermanmeneses@outlook.es-D14836?style=flat-square&logo=outlook&logoColor=white"/></a>
 
