@@ -10,23 +10,31 @@
 
 <h3> 🛠  Tech Stack</h3>
 
-- 🌐  
-  !HTML
-  !CSS
-  !JavaScript
-  !Bootstrap 
-  !C#
-  !.NET
-  !SQL
-  !MAUI Blazor
+<h4>Frontend</h4>
+<ul>
+    <li>!HTML</li>
+    <li>!CSS</li>
+    <li>!JavaScript</li>
+    <li>!Bootstrap</li>
+</ul>
 
-- 🚀   Otros:
-  - .NET Framework
-  - Entity Framework
-  - ASP.NET
-  - Xamarin
-  - Git
-  - Visual Studio
+<h4>Backend</h4>
+<ul>
+    <li>!C#</li>
+    <li>!.NET</li>
+    <li>!SQL</li>
+    <li>!MAUI Blazor</li>
+</ul>
+
+<h4>Otros</h4>
+<ul>
+    <li>.NET Framework</li>
+    <li>Entity Framework</li>
+    <li>ASP.NET</li>
+    <li>Xamarin</li>
+    <li>Git</li>
+    <li>Visual Studio</li>
+</ul>
 
  
 
