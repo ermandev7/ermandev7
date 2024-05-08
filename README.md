@@ -29,11 +29,11 @@
 <h4>Otros</h4>
 <ul>
     <li><img src="https://img.shields.io/badge/-.NET%20Framework-333333?style=flat&logo=.net&color=512BD4" alt=".NET Framework"></li>
-    <li>Entity Framework</li>
-    <li>ASP.NET</li>
-    <li>Xamarin</li>
-    <li>Git</li>
-    <li>Visual Studio</li>
+    <li><img src="https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=entity-framework&color=512BD4" alt="Entity Framework"></li>
+    <li><img src="https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net&color=512BD4" alt="ASP.NET"></li>
+    <li><img src="https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin&color=512BD4" alt="Xamarin"></li>
+    <li><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git&color=F05032" alt="Git"></li>
+    <li><img src="https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&color=5C2D91" alt="Visual Studio"></li>
 </ul>
 
 
