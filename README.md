@@ -12,18 +12,18 @@
 
 <h4>Frontend</h4>
 <ul>
-    <li>!HTML</li>
-    <li>!CSS</li>
-    <li>!JavaScript</li>
-    <li>!Bootstrap</li>
+    <li><img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&color=E34F26" alt="HTML"></li>
+    <li><img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&color=1572B6" alt="CSS"></li>
+    <li><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript"></li>
+    <li><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C&color=563D7C" alt="Bootstrap"></li>
 </ul>
 
 <h4>Backend</h4>
 <ul>
-    <li>!C#</li>
-    <li>!.NET</li>
-    <li>!SQL</li>
-    <li>!MAUI Blazor</li>
+    <li><img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&color=239120" alt="C#"></li>
+    <li><img src="https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net&color=512BD4" alt=".NET"></li>
+    <li><img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql&color=CC2927" alt="SQL"></li>
+    <li><img src="https://img.shields.io/badge/-MAUI%20Blazor-333333?style=flat&logo=dotnet&color=512BD4" alt="MAUI Blazor"></li>
 </ul>
 
 <h4>Otros</h4>
@@ -35,8 +35,6 @@
     <li>Git</li>
     <li>Visual Studio</li>
 </ul>
-
- 
 
 
 <p>
