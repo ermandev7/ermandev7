@@ -5,7 +5,7 @@
 <h3> 💻 &nbsp;Acerca de mí </h3>
 
 - 🤔 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software para los problemas tecnológicos.
-- 🎓 &nbsp; Estudie Ingenieria de Sitemas en la Universidad UPDS de bolivia
+- 🎓 &nbsp; Mi lenguaje favorito es C# 
 
 
 <h3> 🛠  Tech Stack</h3>
