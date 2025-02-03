@@ -28,7 +28,7 @@
             <li><img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&color=239120" alt="C#"></li>
             <li><img src="https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net&color=512BD4" alt=".NET"></li>
             <li><img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql&color=CC2927" alt="SQL"></li>
-            <li><img src="https://img.shields.io/badge/-MAUI%20Blazor-333333?style=flat&logo=dotnet&color=512BD4" alt="MAUI Blazor"></li>
+           <li><img src="https://img.shields.io/badge/-.NET_Core-333333?style=flat&logo=dotnet&color=512BD4" alt=".NET Core"></li>
         </ul>
     </div>
     <div style="flex: 1; min-width: 300px;">
