@@ -20,7 +20,6 @@
             <li><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C&color=563D7C" alt="Bootstrap"></li>
             <li><img src="https://img.shields.io/badge/-.NET_MAUI-333333?style=flat&logo=.net&logoColor=512BD4&color=512BD4" alt=".NET MAUI"></li>
             <li><img src="https://img.shields.io/badge/-.NET_MAUI_Blazor-333333?style=flat&logo=blazor&logoColor=512BD4&color=512BD4" alt=".NET MAUI Blazor"></li>
-
         </ul>
     </div>
     <div style="flex: 1; min-width: 300px;">
